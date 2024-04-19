@@ -1,10 +1,8 @@
 const movies = [{
-    movie: `Speed Racer
-    `,
+    movie: `Speed Racer`,
     suggestion: `@bunnysince02`
 }, {
-    movie: `Stand By Me
-    `,
+    movie: `Stand By Me`,
     suggestion: `@bunnysince02`
 }, {
     movie: `Barbie e o Castelo de Diamantes`,
@@ -22,8 +20,7 @@ const movies = [{
     movie: `Embriagado de Amor`,
     suggestion: `@de_bbatan`
 }, {
-    movie: `Paris, Texas
-    `,
+    movie: `Paris, Texas`,
     suggestion: `@de_bbatan`
 }, {
     movie: `Do the Right Thing`,
@@ -72,10 +69,6 @@ let suggestion = document.querySelector(".suggestion");
 
 btn.addEventListener("click", function () {
     let random = Math.floor(Math.random() * movies.length);
-
-
     movie.innerHTML = movies[random].movie;
-
-
     suggestion.innerHTML = movies[random].suggestion;
 })
