@@ -68,7 +68,7 @@ const movies = [{
     movie: `Tempo`,
     suggestion: `@vwcasswv`
 }, {
-    movie: `Spirit Corcel Indomável`,
+    movie: `Spirit: O corcel indomável`,
     suggestion: `@vwcasswv`
 }, {
     movie: `as vantagens de ser invisível`,
