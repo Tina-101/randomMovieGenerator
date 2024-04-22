@@ -58,6 +58,21 @@ const movies = [{
 }, {
     movie: `The Lady from Shanghai`,
     suggestion: `@princess_leia_101`
+}, {
+    movie: `Into The Wild`,
+    suggestion: `@vwcasswv`
+}, {
+    movie: `Coraline`,
+    suggestion: `@vwcasswv`
+}, {
+    movie: `Tempo`,
+    suggestion: `@vwcasswv`
+}, {
+    movie: `Spirit Corcel Indomável`,
+    suggestion: `@vwcasswv`
+}, {
+    movie: `as vantagens de ser invisível`,
+    suggestion: `@vwcasswv`
 }]
 
 
